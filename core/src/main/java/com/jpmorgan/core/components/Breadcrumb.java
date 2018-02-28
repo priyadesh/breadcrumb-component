@@ -26,7 +26,7 @@ public class Breadcrumb extends WCMUsePojo{
 	private void setBreadCrumbItems()
 	{
 		
-		int level = 2;
+		int level = 1;
 		int endLevel = 0;
 		int currentLevel = getCurrentPage().getDepth();
 			while (level < currentLevel - endLevel){
