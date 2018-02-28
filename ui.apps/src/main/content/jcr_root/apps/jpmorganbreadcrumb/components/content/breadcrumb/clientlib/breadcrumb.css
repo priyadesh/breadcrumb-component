@@ -1,0 +1,21 @@
+ .breadcrumb-container {
+              overflow: hidden;
+       }
+
+       .breadcrumb-container ul {
+              width: 400px;
+       }
+
+       .breadcrumb-container li {
+              float: left;
+              list-style: none;
+              margin-left: 10px;
+       }
+
+.breadcrumb{
+    font-size:10px;
+    }
+
+   .breadcrumb a:after {
+    content: " /";
+}
