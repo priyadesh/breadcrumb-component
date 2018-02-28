@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>jpmorgan-breadcrumb - UI content</comment>
+<entry key="createdBy">karthikg</entry>
+<entry key="name">jpmorgan-breadcrumb.ui.content</entry>
+<entry key="created">2018-02-28T23:23:33.880+0530</entry>
+<entry key="groupId">com.jpmorgan</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">jpmorgan-breadcrumb</entry>
+<entry key="description">UI content package for jpmorgan-breadcrumb</entry>
+<entry key="artifactId">jpmorgan-breadcrumb.ui.content</entry>
+<entry key="path">/etc/packages/jpmorgan-breadcrumb/jpmorgan-breadcrumb.ui.content.zip</entry>
+</properties>
